@@ -56,13 +56,16 @@ img{
 
 /* book section */
 .book img{
-    height:30%;
-    width: 30%;
+    width:90px ;
+    height: 100px;
+    padding: 20px;
     
 }
-#books .card-img-top{
-    margin:30px 70px !important;
+.book1:hover{
+    background-color: gray;
+    color: white;
 }
+
 .card{
     box-shadow: 5px 5px 10px lightgray;
 }
